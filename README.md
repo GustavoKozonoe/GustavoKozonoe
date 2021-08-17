@@ -1,5 +1,4 @@
-<img align="right" alt="Rafa-yoda" src="https://c.tenor.com/zXfxt7qdC5QAAAAS/gojo-satoru-jujutsu-kaisen.gif">
-## Olá Mundo! Sou Gustavo Kozonoe 😬 
+## Olá Mundo! Sou Gustavo Kozonoe 😬 <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/zXfxt7qdC5QAAAAS/gojo-satoru-jujutsu-kaisen.gif">
 ### Estou cursardo Ciência da Computação na Universidade Presbiteriana Mackenzie
 
 - 🔭 Estou atualmente procurando emprego/estágio
