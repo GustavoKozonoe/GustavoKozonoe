@@ -1,8 +1,8 @@
 ## Olá Mundo! Sou Gustavo Kozonoe 😬 <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/zXfxt7qdC5QAAAAS/gojo-satoru-jujutsu-kaisen.gif">
 ### Estou cursardo Ciência da Computação na Universidade Presbiteriana Mackenzie
 
-- 🔭 Estou atualmente procurando emprego/estágio
-- 💻 Estou estudando React e React Native
+- 🔭 Atualmente estagiário na Czarnikow
+- 💻 Estou estudando Angular, C# e SQL
 - 🎞  Gosto de assistir series, filmes e animes
 - ⚽ Gosto de esportes, principalmente futebol
 <div>
